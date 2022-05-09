@@ -43,8 +43,6 @@ footer a {
 
 .footer__socials a:hover{
     background: var(--color-white);
-    color: var(--color-light);
-    border-color: var(--color-light);
 }
 
 .footer__copyright {
